@@ -2,7 +2,10 @@
   "name": "baytaltalim-blog",
   "description": "Official blog for Bayt al-Ta'līm.",
   "version": "1.1.0",
-  "contributors": ["Zaeem Parker <iam@zp4rker.com>", "'Ābiru Sabīl"],
+  "contributors": [
+    "Zaeem Parker <iam@zp4rker.com>",
+    "'Ābiru Sabīl"
+  ],
   "dependencies": {
     "@babel/compat-data": "^7.15.0",
     "gatsby": "^2.19.49",
