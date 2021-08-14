@@ -14,12 +14,12 @@ const config = {
   dateFormat: 'DD/MM/YYYY', // Date format for display.
   userName: 'Bayt al-Ta`leem', // Username to display in the author segment.
   userEmail: 'baytaltalim@protonmail.com', // Email used for RSS feed's author segment
-  userTwitter: 'placeholder', // Optionally renders "Follow Me" in the Bio segment.
-  userGitHub: 'placeholder', // Optionally renders "Follow Me" in the Bio segment.
-  userLocation: 'al-Dunya', // User location to display in the author segment.
+  userTwitter: '', // Optionally renders "Follow Me" in the Bio segment.
+  userGitHub: '', // Optionally renders "Follow Me" in the Bio segment.
+  userLocation: '', // User location to display in the author segment.
   userAvatar: 'https://i.ibb.co/WPz9CNk/avatar.jpg', // User avatar to display in the author segment.
   userDescription:
-    "placeholder", // User description to display in the author segment.
+    "", // User description to display in the author segment.
   copyright: 'Copyright © 2021. All rights reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#c62828', // Used for setting manifest and progress theme colors.
   backgroundColor: 'red' // Used for setting manifest background color.
