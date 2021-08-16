@@ -15,7 +15,7 @@ const config = {
   userName: '`abdullāh', // Username to display in the author segment.
   userEmail: 'baytaltalim@protonmail.com', // Email used for RSS feed's author segment
   userTwitter: '', // Optionally renders "Follow Me" in the Bio segment.
-  userGitHub: '', // Optionally renders "Follow Me" in the Bio segment.
+  userGitHub: 'https://github.com/baytaltalim/baytaltalim-blog', // Optionally renders "Follow Me" in the Bio segment.
   userLocation: 'al-Dunyā', // User location to display in the author segment.
   userAvatar: '/avatar.jpg', // User avatar to display in the author segment.
   userDescription:
